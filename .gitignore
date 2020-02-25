@@ -1,0 +1,5 @@
+# ignore
+CMSIS_5-5.4.0/
+dev/
+saved/
+stlink/
