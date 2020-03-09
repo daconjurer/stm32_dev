@@ -1,7 +1,7 @@
 # stm32_dev
 This repo collects development tools, examples, and reference on
 embedded systems development using the STM32 "Blue Pill" MCU. The
-setup includes Bare Metal, CMSIS, Mbed, FreeRTOS and Arduino
+setup includes Bare Metal, Mbed, FreeRTOS and Arduino
 applications.
 
 ## Prerequisites
