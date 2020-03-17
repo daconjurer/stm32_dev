@@ -82,11 +82,11 @@ endif
 .SECONDEXPANSION:
 .SECONDARY:
 
-elf:	$(DEPS) $(BINARY).elf
-bin:	$(DEPS) $(BINARY).bin
-hex:	$(DEPS) $(BINARY).hex
-srec:	$(DEPS) $(BINARY).srec
-list:	$(DEPS) $(BINARY).list
+elf:	$(DEPS) $(TARGET).elf
+bin:	$(DEPS) $(TARGET).bin
+hex:	$(DEPS) $(TARGET).hex
+srec:	$(DEPS) $(TARGET).srec
+list:	$(DEPS) $(TARGET).list
 
 print-%:
 	@echo $*=$($*)
