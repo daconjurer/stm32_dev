@@ -6,3 +6,4 @@ stlink/
 include/
 projects/projects-bare-metal/
 projects/projects-libopencm3/test01/
+projects/projects-freertos/test01/
