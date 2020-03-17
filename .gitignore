@@ -4,3 +4,7 @@ dev/
 saved/
 stlink/
 include/
+projects/projects-bare-metal/
+projects/projects-freertos/
+projects/projects-libopencm3/test01/
+projects/projects-libopencm3/template/alters.sed
