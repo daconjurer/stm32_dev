@@ -25,6 +25,11 @@ folders are placed inside *include*.
 
 Soon to become...
 
+## Acknowledgements
+This repo is strongly based on the
+[stm32f103cc8t6](https://github.com/ve3wwg/stm32f103c8t6)
+repo by **Warren Gay** - [ve3wwg](https://github.com/ve3wwg).
+
 ## Authors
 
 * **Victor Sandoval** - [daconjurer](https://github.com/daconjurer)
@@ -32,4 +37,6 @@ Soon to become...
 ## Note
 
 This project is just a collection of resources that I find useful and
-use myself for the projects using the Blue Pill board.
+use myself for the projects using the Blue Pill board, and is strongly
+based on the [stm32f103cc8t6](https://github.com/ve3wwg/stm32f103c8t6)
+repo by **Warren Gay** - [ve3wwg](https://github.com/ve3wwg).
